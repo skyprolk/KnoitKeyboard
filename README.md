@@ -1,11 +1,6 @@
 # KnoitKeyboard
 I am showing you, #HowTo make #Keyboard app using #AndroidStudio in this tutorial set.
 
-👉Today I am going for #ConfigAndroidStudio to make for keyboard app👈
-
-🖱️#1 Part : 
-https://youtu.be/fhZXpQx7MbA
-
 📎Step 1 - System Requirements
 
 You will be delighted, to know that you can start your Android application development on either of the following operating systems −
@@ -79,36 +74,5 @@ https://github.com/skyprolk
 📢Facebook Group:
 https://www.facebook.com/groups/89181...
 
-
-
-©️redits:
-
-🎵Background Music🎵
-––––––––––––––––––––––––––––––
-Track: Coastline — Ason ID [Audio Library Release]
-Music provided by Audio Library Plus
-Watch: https://youtu.be/B8TyOnh8S-U
-Free Download / Stream: https://alplus.io/_coastline
-––––––––––––––––––––––––––––––
-
-Tags:
-android studio,
-android studio sinhala,
-keyboard code for android studio, 
-create android keyboard, 
-android studio tutorial - built your own keyboard,
- how to create a keyboard app for android
- android studio sinhala tutorial pdf, 
-android studio sinhala tutorials, 
-android studio sinhala tutorial,
- android studio sinhala pdf, 
-android studio beginner course sinhala, 
-android studio download sinhala, 
-android app developement sinhala,
- android studio tutorial for beginners sinhala, 
-learn android studio in sinhala,
- android studio in windows sinhala,
- android studio introduction sinhala, 
-how to use android studio in sinhala,
 #knoit
 #skyproduction
